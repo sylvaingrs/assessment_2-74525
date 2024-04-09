@@ -1,5 +1,6 @@
 # assessment_2-74525
-
+      Sylvain Gross - 74525
+      Requirements : 
       1. Movie screen:
 - [ ] 1.1. Create a Movie class with the structure specified in movie.json
 - [ ] 1.2. Obtain and fill data (minimum of 4 movies)
